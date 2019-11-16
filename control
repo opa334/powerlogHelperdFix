@@ -1,0 +1,10 @@
+Package: com.opa334.powerloghelperdfix
+Name: powerlogHelperdFix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Block tweak injection into powerlogHelperd!
+Depiction: https://opa334.github.io/depic/powerlogHelperdFix/index.html
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
